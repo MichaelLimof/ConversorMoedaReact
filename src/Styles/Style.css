@@ -1,0 +1,38 @@
+.parent-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+
+
+.Conversor{
+    padding:40px;
+    padding-top:70px;
+    margin-top: 50px;
+    max-width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    height: 10em;
+    border-radius: 10px;
+
+}
+
+  
+
+
+#button {
+margin-left: 20px ;
+border-radius: 2px;
+max-width: 80px;
+height: 30px;
+background-color: #4caf50;
+border:none;
+
+
+}
+input{
+    margin-left: 15px ;
+    border-radius: 2px;
+    max-width: 150px;
+    height: 20px;
+}
